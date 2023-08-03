@@ -1,0 +1,10 @@
+Data la defines how your app deasl w data:
+ - Add new instances of model objects
+ - Delete instances
+ - Modify
+ - Display particular
+ - List all instances
+
+The model is where you define how the data fits into an object
+App only needs to know how to interact with the data layer
+
